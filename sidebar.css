@@ -1,0 +1,28 @@
+.navbar{
+    
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 10px;
+  padding-left: 25px;
+padding-bottom: 2px;
+  
+   
+}
+
+.navcont{
+    height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  cursor: pointer;
+  border-bottom: 5px;
+  border-color: black;
+}
+
+.navcont:hover{
+    background-color: rgb(226, 220, 220);
+}
+
+
+   

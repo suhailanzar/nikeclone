@@ -1,0 +1,36 @@
+
+
+body{
+    font-family: "Helvetica Now Text Medium",Helvetica,Arial,sans-serif;
+   
+    margin: 0;
+    
+   
+}
+
+.contentdiv{
+    display: flex;
+    flex-direction: row;
+    column-gap: 130px;
+
+
+
+}
+h4{
+    margin-top: 7px;
+    margin-bottom: 7px;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.logos{
+    height: 25px;
+}
+    
+p{
+    margin: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    
+}
+    

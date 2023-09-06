@@ -1,0 +1,137 @@
+.header-cont{
+   margin-left: 0px;
+  color: rgb(63, 58, 58);
+  margin-bottom: 30px;
+ 
+}
+
+.section-1{
+    background-color: rgb(243, 235, 235);
+    height: 40px;
+    margin: 0px;
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    right: 0;
+    top: 0;
+    bottom: 50px;
+    left: 0;
+    
+}
+.top-left{
+    padding-left: 50px;
+    padding-top: 6px;
+}
+
+.pre-logo-svg{
+    
+    transform: scale(1.88);
+    height: 40px;
+    width: 40px;
+    padding-left: 35px;
+    padding-top: 10px;
+ 
+}
+
+.hovering:hover{
+    background-color: rgb(226, 220, 220);
+    cursor: pointer;
+   
+}
+
+.textbox:hover , .pre-nav-design-icon:hover{
+    background-color: rgb(226, 220, 220);
+    cursor: pointer;
+}
+
+.top-right{
+    display: flex;
+    padding-right: 35px;
+    padding-top: 10px;
+
+}
+
+
+
+.section-2{
+background-color: rgb(255, 255, 255);
+height: 50px;
+display: flex;
+justify-content: space-between;
+margin-bottom: 20px;
+padding-top: 50px;
+}
+
+.middle-section{
+    padding-left: 80px;
+    padding-top: 25px;
+
+}
+
+.middletext{
+    font-size: 16px;
+}
+
+.right-section{
+    display: flex;
+    align-items: center;
+    padding-right: 30px;
+   
+    margin-inline: 10px;
+ 
+}
+
+.textbox{
+    width: 120px;
+    height: 34px;
+    border-top-right-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding-left: -30px;
+    border: none;
+    background-color: rgb(241, 241, 232);
+
+}
+
+.searchbutton{
+    height: 36px;
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+    padding-right: -1;
+    border: none;
+    
+}
+
+.sec12{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+.section-3{
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    font-size: large;
+    font-weight: lighter;
+    color: rgb(59, 51, 51);
+    background-color: rgb(250, 248, 246);
+    align-items: center;
+   
+ 
+    
+}
+
+.bottom-left{
+    padding-left: 30px;
+}
+.bottom-right{
+    padding-right: 50px;
+}
+
+
+
+
+
+
+
